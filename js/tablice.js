@@ -43,3 +43,5 @@ console.log(zmienna);
 //sort() sortuje tablice - niezaleznie od tego, gdzie zostal wykonany
 console.log(zmienna.sort());
 console.log(zmienna);
+
+to else
