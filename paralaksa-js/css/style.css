@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+
+.box {
+    height: 100vh;
+}
+
+#parallax {
+    background-image: url('../img/comment_hqxLilcuwUmdpIvYSmujngL79RK1kMDU.jpg');
+    background-size: cover;
+    background-position: 0 0;
+    position: relative;
+}
+
+#parallax-2 {
+    background-image: url(../img/kwiat_wisni_afp_640_1.jpeg);
+    background-size: cover;
+
+    background-position: 0 0;
+    position: absolute;
+    width: 100%;
+    top: 50vh;
+    height: 50vh;
+}
